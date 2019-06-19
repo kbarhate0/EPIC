@@ -1,0 +1,10 @@
+2019-06-04 14:00:53,599 [DEBUG] freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-06-04 14:00:53,599 [DEBUG] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-06-04 14:00:53,603 [DEBUG] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-06-04 14:00:53,603 [DEBUG] freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-06-04 14:00:53,603 [DEBUG] freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Proximus/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2019-06-04 14:00:53,951 [DEBUG] freemarker.cache  - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2019-06-04 14:00:53,951 [DEBUG] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2019-06-04 14:00:53,951 [DEBUG] freemarker.cache  - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2019-06-04 14:00:53,951 [DEBUG] freemarker.cache  - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2019-06-04 14:00:53,951 [DEBUG] freemarker.cache  - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Proximus/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
